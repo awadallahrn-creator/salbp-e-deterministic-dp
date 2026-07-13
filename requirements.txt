@@ -1,0 +1,4 @@
+# Pinned versions used to produce all results in the paper.
+numpy==2.4.4
+matplotlib==3.10.8
+scipy==1.17.1

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "A Deterministic Dynamic-Programming Heuristic for SALBP-E"
+authors:
+  - family-names: "Awadallah"
+    given-names: "Ruba"
+  - family-names: "Jaber"
+    given-names: "Iyad"
+  - family-names: "Al-Janabi"
+    given-names: "Saif"
+version: "1.0.0"
+date-released: "2026-07-13"
+license: MIT
+abstract: >-
+  Reproducibility package for a fully deterministic dynamic-programming
+  heuristic for the type-E Simple Assembly Line Balancing Problem (SALBP-E),
+  including the single-order heuristic, the multi-order extension DP-k, the
+  Greedy/GA/ACO baselines, an exact validator, and all result files.
+keywords:
+  - assembly line balancing
+  - SALBP-E
+  - deterministic heuristic
+  - dynamic programming
+  - reproducibility
